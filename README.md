@@ -1,6 +1,6 @@
 # spotivue
 
-> last.fm and spotify api pulls 
+> last.fm and spotify api GET paly with vue.js 
 
 ## Build Setup
 
